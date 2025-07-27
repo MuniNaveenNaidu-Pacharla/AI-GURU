@@ -53,8 +53,8 @@ With overwhelming online content, scattered advice, and no structured plan, we k
 
 ## 📹 Demo Video & Links
 
-- 🌐 Live App: https://lnkd.in/gwA_gpQT
-- 🎥 YouTube Demo: https://lnkd.in/gy_xgGQj
+- 🌐 Live App: https://youraiguru.netlify.app/
+- 🎥 YouTube Demo: https://youtu.be/TeN3-ZqusT0?si=X7Vw4chCQGjY25jC
 - 💻 GitHub Repo: https://github.com/MuniNaveenNaidu-Pacharla/AI-GURU
 
 ---
